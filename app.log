@@ -1,0 +1,23 @@
+werkzeug - WARNING -  * Debugger is active!
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/v3/user/devices (Caused by SSLError(SSLError("bad handshake: SysCallError(104, 'ECONNRESET')")))
+('Connection aborted.', OSError("(104, 'ECONNRESET')"))
+'NoneType' object is not subscriptable
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/v3/user/devices (Caused by SSLError(SSLError("bad handshake: SysCallError(104, 'ECONNRESET')")))
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/user/devices/5a057973-c03f-4b74-93bb-cb501725cece (Caused by SSLError(SSLError("bad handshake: SysCallError(110, 'ETIMEDOUT')")))
+('Connection aborted.', OSError("(104, 'ECONNRESET')"))
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/user/devices/5a057973-c03f-4b74-93bb-cb501725cece (Caused by SSLError(SSLError("bad handshake: SysCallError(110, 'ETIMEDOUT')")))
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/user/devices/5a057973-c03f-4b74-93bb-cb501725cece (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb44cee70>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/v3/user/devices (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb3c90bb0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/v3/user/devices (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb44dbbf0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/v3/user/devices (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb3c97d10>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/v3/user/devices (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb44dbad0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/user/devices/5a057973-c03f-4b74-93bb-cb501725cece (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb3ca29b0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/v3/user/devices (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb44ceed0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/v3/user/devices (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb3c902d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Unable to discover the device 192.168.86.93
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/user/devices/5a057973-c03f-4b74-93bb-cb501725cece (Caused by SSLError(SSLError("bad handshake: SysCallError(104, 'ECONNRESET')")))
+HTTPSConnectionPool(host='iot.quasar.yandex.ru', port=443): Max retries exceeded with url: /m/user/devices/5a057973-c03f-4b74-93bb-cb501725cece (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb44802d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
